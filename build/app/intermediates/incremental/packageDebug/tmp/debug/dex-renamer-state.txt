@@ -1,4 +1,0 @@
-#Thu Feb 18 20:06:39 EET 2021
-base.0=G\:\\Users\\Maher\\AndroidStudioProjects\\GetX_Pagination\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
